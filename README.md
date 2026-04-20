@@ -20,7 +20,7 @@ End-to-end architecture: SOA/REST APIs, multi-layer data pipeline (bronze → si
 
 🤖 **D-Sci-D Consulting** (2016–2018) — ML/NLP consulting. Built sentiment models (Spanish), text classifiers, and topic models using scikit-learn, NLTK, Stanford CoreNLP.
 
-🏦 **Fitch Ratings** (2012–2016) — Enterprise search (Solr), Spring web components, structured finance systems.
+🏦 **Fitch Ratings** (2012–2016) — Enterprise search (Solr), Java EE, structured finance systems.
 
 ## Tech
 
